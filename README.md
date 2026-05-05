@@ -1,5 +1,8 @@
-# <img src="bits_logo.png" height="60" alt="BITS Logo"> BITS Meeting - Travel Grant assignment
+<p align="center">
+  <img src="bits_logo.jpg" width="400">
+</p>
 
+# BITS Meeting - Travel Grant assignment
 Algorithm for **Travel Grants** ranking and assignment for the annual meetings of the **Bioinformatics Italian Society (BITS)**.
 
 ### ⚖️ Priority ranking
