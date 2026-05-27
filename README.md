@@ -5,7 +5,7 @@
 # BITS Meeting - Travel Grant assignment
 Algorithm for **Travel Grants** ranking and assignment for the annual meetings of the **Bioinformatics Italian Society (BITS)**.
 
-### ⚖️ Priority ranking
+### Priority ranking
 The script automates the selection process based on the priority rules approved by the organizing committee.
 The ranking is calculated across 5 priority rounds:
 * **Priority 1**: BITS members, age < 35, no previous BITS Travel Grant received.
@@ -14,10 +14,7 @@ The ranking is calculated across 5 priority rounds:
 * **Priority 4**: Not BITS members, no previous Travel Grant.
 * **Priority 5**: Applicants who have previously received a BITS Travel Grant.
 
-### 🛠️ Requirements
+### Requirements
 ```r
 install.packages(c("tidyverse", "readxl", "writexl", "lubridate"))
 ```
-
-### 👥 Contributor
-Alice Romeo
