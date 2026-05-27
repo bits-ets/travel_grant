@@ -10,8 +10,8 @@ library(writexl)
 library(lubridate)
 
 # 2. Configuration -------------------------------------------------------------
-INPUT_FILE  <- "palloccam_07052026_085440.xls" 
-OUTPUT_FILE <- "TG-2026-finale.xlsx"
+INPUT_FILE  <- "input_data.xls" 
+OUTPUT_FILE <- "TG.xlsx"
 AGE_THRESHOLD <- 35
 SCORE_THRESHOLD <- 3
 
